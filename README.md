@@ -9,5 +9,5 @@ In this article, we will show you how to create a music player using HTML, CSS, 
 
 Click [Here](https://codepen.io/emrankhan016/full/jZQROm) to see demo and Edit
 
-
+Feel free to create an issue if you find any bug. You can also contribute if you want to. :)
 
